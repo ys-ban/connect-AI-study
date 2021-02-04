@@ -48,7 +48,7 @@
 - VGG16, VGG19
 
 
-## GooLeNet
+## GoogLeNet
 
 - it has 22 layers
 - network in network structure
