@@ -72,3 +72,4 @@
 - suppose that we read the word cat
   - what is the probability of some words $\mathbb{W}$ nearby cat?
 - distributional hypothesis: the meaning of cat is captured by the probability distribution $P(\mathbb{W}|cat)$
+
